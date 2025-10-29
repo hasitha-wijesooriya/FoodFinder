@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "632566976750",
-    "project_id": "foodfinder-84d48",
+    "project_number": "63256697672550",
+    "project_id": "foodfinder-84d548",
     "storage_bucket": "foodfinder-84d48.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:632566976750:android:5d0549be5450ab5ad263ff",
+        "mobilesdk_app_id": "1:632566976750:android:5d0549be5450ab5ad263fhfhgff",
         "android_client_info": {
           "package_name": "com.example.foodfinder"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDjbAl6BWQsW8wXc7wyHURj9FWI5Tt0hU4"
+          "current_key": "AIzaSyDjbAl6BWQsW8wXc7wyHURj9FWfhfhffI5Tt0hU4"
         }
       ],
       "services": {
